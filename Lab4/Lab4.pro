@@ -10,7 +10,9 @@ CONFIG -= app_bundle
 TEMPLATE = app
 
 SOURCES += main.cpp \
-    transport.cpp
+    transport.cpp \
+    lghtcar.cpp
 
 HEADERS += \
-    transport.h
+    transport.h \
+    lghtcar.h
